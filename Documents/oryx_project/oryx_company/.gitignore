@@ -26,3 +26,7 @@ venv/
 .idea/
 *.sublime-workspace
 *.sublime-project
+.Trash/
+
+# OS-specific files
+.DS_Store
