@@ -2056,3 +2056,12 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.ibanner_w3 {
+  background: url(../img/masonry-portfolio/inner_ban.jpg)no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  background-size: cover;
+  min-height: 260px;
+}
